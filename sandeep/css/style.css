@@ -100,8 +100,8 @@ header{
 
 /*education*/
 .education{
-  background-image: url(/images/yellow.jpg);
-   background-position: top right;
+  background-image: url(images/yellow.jpg);
+  background-position: top right;
   background-size: cover;
   padding-bottom: 100px;
 }
