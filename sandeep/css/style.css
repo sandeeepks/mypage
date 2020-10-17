@@ -145,6 +145,10 @@ a:hover, a:active {
      float:left;
      margin-right: 20px;
   }
+  .education img{
+     float:left;
+     margin-right: 20px;
+  }
 
   .job-item{
     display: grid;
