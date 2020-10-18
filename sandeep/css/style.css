@@ -17,7 +17,7 @@ img{
   width:300px;
 }
 a{
-  color: #FFE66D;
+  color: white;
 }
 a:hover{
   text-decoration: none;
@@ -135,7 +135,7 @@ footer{
   display: inline-block;
 }
 /*Prototype link */
-a:link, a:visited {
+.projects a:link, a:visited {
   background-color: blue;
   color: white;
   padding: 5px 12px;
