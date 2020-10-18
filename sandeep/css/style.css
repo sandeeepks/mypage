@@ -63,7 +63,12 @@ header{
 
 /*projects*/
 .projects{
-  background: #F7FFF7;
+  background-image: url(../images/green.jpg);
+  background-size: cover;
+  background-position: top right ;
+  padding-bottom: 100px;
+  color:white;
+  font-weight: bold;
 }
 
 .projects a{
@@ -93,17 +98,24 @@ header{
 
 /*work experience*/
 .work-experience{
-  background: #ffedd1;
+  background-image: url(../images/black.jpg);
+  background-size: cover;
+  background-position: top right ;
+  padding-bottom: 100px;
+  color:white;
+  font-weight: bold;
 }
 
 
 
 /*education*/
 .education {
-  background-image: url(../images/yelloww.jpg);
-  background-position: top right;
+  background-image: url(../images/yello.jpg);
   background-size: cover;
+  background-position: top right ;
   padding-bottom: 100px;
+  color:black;
+  font-weight: bold;
 }
 .education p {
   width: 70%;
